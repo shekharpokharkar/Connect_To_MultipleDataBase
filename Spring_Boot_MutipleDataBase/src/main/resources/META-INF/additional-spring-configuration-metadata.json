@@ -1,0 +1,62 @@
+{"properties": [
+  {
+    "name": "spring.datasource.MySql.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.MySql.url'"
+  },
+  {
+    "name": "spring.datasource.mysql.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql.url'"
+  },
+  {
+    "name": "spring.jpa.mysql.show-sql",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.mysql.show-sql'"
+  },
+  {
+    "name": "spring.jpa.hibernate.mysql.ddl-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.mysql.ddl-auto'"
+  },
+  {
+    "name": "spring.datasource.mysql.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql.password'"
+  },
+  {
+    "name": "spring.datasource.mysql.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql.driver-class-name'"
+  },
+  {
+    "name": "spring.datasource.mysql.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.mysql.username'"
+  },
+  {
+    "name": "spring.datasource.PgAdmin.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.PgAdmin.url'"
+  },
+  {
+    "name": "spring.datasource.PgAdmin.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.PgAdmin.username'"
+  },
+{
+    "name": "spring.datasource.PgAdmin.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.PgAdmin.driver-class-name'"
+  }
+,{
+    "name": "spring.datasource.PgAdmin.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.PgAdmin.password'"
+  }
+,{
+    "name": "spring.datasource.PgAdmin.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.datasource.PgAdmin.username'"
+  }
+]}
